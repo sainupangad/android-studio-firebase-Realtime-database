@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "762224423585",
+    "firebase_url": "https://connectfirebase1-92be4-default-rtdb.firebaseio.com",
+    "project_id": "connectfirebase1-92be4",
+    "storage_bucket": "connectfirebase1-92be4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762224423585:android:b055af2813d12ff22836e0",
+        "android_client_info": {
+          "package_name": "sainupangad.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762224423585-md1htln0uvbcd6braoaughm3hv8n3esv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sainupangad.com",
+            "certificate_hash": "8d436a3122f9e97ec460c7be05d0effafec0c832"
+          }
+        },
+        {
+          "client_id": "762224423585-2ul143jra3gvnog4q2gtui66m9be7pav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF3bwoDAGPId4TsSAH8SdtGkhw41Kgq8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762224423585-2ul143jra3gvnog4q2gtui66m9be7pav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
